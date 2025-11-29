@@ -1,0 +1,7 @@
+{
+  "name": "Ground Me - 5-4-3-2-1 Calm",
+  "description": "A sensory grounding application using the 5-4-3-2-1 anxiety relief technique with AI-generated visualization.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
